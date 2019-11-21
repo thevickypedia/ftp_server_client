@@ -2,7 +2,7 @@
 FTP Server and Client using Socket Programming in C
 
 Prerequisites:
-Access to grok.missouristate.edu (in case you're using a single machine)
+Access to two computers on the same network or a virtual machine (eg. grok.missouristate.edu in case you're using a single machine)
 Program for ftp_client and ftp_server
 
 Contents of the directory:
@@ -10,8 +10,7 @@ ftp_client.c
 ftp_server.c
 ftp_client
 ftp_server
-readme.txt
-makeme
+makemefile
 
 Running the tests:
 1. Initialize a socket (using socket())
