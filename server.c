@@ -1,10 +1,8 @@
 //********************************************************************
 //
 // Name: Vignesh Sivanandha Rao 
-// Computer Networks
-// Assignment 3: Programming Project 
-// October 27, 2018 
-// Instructor: Dr. Ajay K. Katangur
+// Computer Networks 
+// October 27, 2018
 //
 //********************************************************************
 
