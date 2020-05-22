@@ -1,4 +1,4 @@
-# CSC665_ComputerNetworks-FTP
+# ComputerNetworks-FTP
 FTP Server and Client using Socket Programming in C
 
 Prerequisites:
