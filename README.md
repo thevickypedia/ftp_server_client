@@ -19,7 +19,6 @@ Running the tests:
 4. Assign tasks for "ls"
 5. Get file name from request and transfer it to the destination
 
-
 References used:
 
 ftp://ftp.sas.com/techsup/download/SASC/share5958-59/S5958v2.pdf
@@ -29,3 +28,9 @@ https://www.cs.nmsu.edu/~jcook/Tools/pthreads/library.html
 http://www.cs.columbia.edu/~danr/courses/6761/Fall00/hw/pa1/6761-sockhelp.pdf
 http://www.yolinux.com/TUTORIALS/LinuxTutorialPosixThreads.html
 https://stackoverflow.com/questions/4204666/how-to-list-files-in-a-directory-in-a-c-program
+
+## License & copyright
+
+&copy; Vignesh Sivanandha Rao, FTP Server and Client
+
+Licensed under the [MIT License](LICENSE)
